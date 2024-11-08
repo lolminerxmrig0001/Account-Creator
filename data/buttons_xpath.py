@@ -1,0 +1,8 @@
+b_create_account = '//*[@id="yDmH0d"]/c-wiz/div/div[2]/div/div[2]/div/div[2]/div/div/div[1]/div/button/span'
+b_create_account_for_myself = '//*[@id="yDmH0d"]/c-wiz/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/ul/li[1]'
+b_input_firstName = '//*[@id="firstName"]'
+b_input_lastName = '//*[@id="lastName"]'
+b_username = '//*[@id="username"]'
+b_password = '//*[@id="passwd"]/div[1]/div/div[1]/input'
+b_confirm_password = '//*[@id="confirm-passwd"]/div[1]/div/div[1]/input'
+b_next_1 = '//*[@id="accountDetailsNext"]/div/button/span'
